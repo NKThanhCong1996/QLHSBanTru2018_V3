@@ -1,0 +1,7 @@
+F:\DuAn\cpit\QLBanTru2018\QLHSBanTru2018_Demo_V1\DataConnect\obj\Debug\DataConnect.csprojResolveAssemblyReference.cache
+F:\DuAn\cpit\QLBanTru2018\QLHSBanTru2018_Demo_V1\DataConnect\obj\Debug\DataConnect.csproj.CoreCompileInputs.cache
+F:\DuAn\cpit\QLBanTru2018\QLHSBanTru2018_Demo_V1\DataConnect\bin\Debug\DataConnect.exe.config
+F:\DuAn\cpit\QLBanTru2018\QLHSBanTru2018_Demo_V1\DataConnect\bin\Debug\DataConnect.exe
+F:\DuAn\cpit\QLBanTru2018\QLHSBanTru2018_Demo_V1\DataConnect\bin\Debug\DataConnect.pdb
+F:\DuAn\cpit\QLBanTru2018\QLHSBanTru2018_Demo_V1\DataConnect\obj\Debug\DataConnect.exe
+F:\DuAn\cpit\QLBanTru2018\QLHSBanTru2018_Demo_V1\DataConnect\obj\Debug\DataConnect.pdb
